@@ -10,6 +10,4 @@
 # Dependencies
 #odoo
 
-*
-!content/
 content/applications/**/*.png
