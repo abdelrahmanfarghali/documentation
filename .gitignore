@@ -1,24 +1,15 @@
-*.pyc
-*.mo
+#*.pyc
+#*.mo
 .*
 !.gitattributes
-!.weblate.json
+#!.weblate.json
 
 # Sphinx build files
-_build/
+#_build/
 
 # Dependencies
-odoo
+#odoo
 
-locale/
-static/
-tests/
-extensions/
-invs/
-redirects/
-.weblate
-commit_template.txt
-conf.py
-Makefile
-requirements.txt
+*
+!content/
 content/applications/**/*.png
