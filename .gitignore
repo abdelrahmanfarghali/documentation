@@ -10,7 +10,4 @@
 # Dependencies
 #odoo
 
-content/**/**/**/*.png
-content/**/**/**/**/*.png
-content/**/**/**/**/**/*.png
-content/**/**/**/**/**/**/*.png
+*.png
