@@ -9,3 +9,16 @@ _build/
 
 # Dependencies
 odoo
+
+locale/
+static/
+tests/
+extensions/
+invs/
+redirects/
+.weblate
+commit_template.txt
+conf.py
+Makefile
+requirements.txt
+content/applications/**/*.png
