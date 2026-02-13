@@ -1,13 +1,1 @@
-#*.pyc
-#*.mo
-.*
-!.gitattributes
-#!.weblate.json
-
-# Sphinx build files
-#_build/
-
-# Dependencies
-#odoo
-
-*.png
+.DS_Store
